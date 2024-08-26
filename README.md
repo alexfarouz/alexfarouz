@@ -1,4 +1,4 @@
-![Banner](https://github.com/alexfarouz/alexfarouz/banner.jpg)
+![Banner](https://github.com/alexfarouz/alexfarouz/blob/main/banner.jpg)
 
 # Hey👋 I'm Alex! 
 
