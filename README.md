@@ -1,4 +1,4 @@
-![Banner](https://github.com/YourUsername/YourRepoName/blob/main/assets/banner.png)
+![Banner](https://github.com/YourUsername/YourRepoName/banner.png)
 
 # Hey👋 I'm Alex! 
 
