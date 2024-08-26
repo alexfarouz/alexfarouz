@@ -1,7 +1,7 @@
 ![Banner](https://github.com/alexfarouz/alexfarouz/blob/main/banner.jpg)
 
-<div><h1>Hey👋 I'm Alex!</h1><span>I'm an aspiring Software/AI Engineer constantly looking to grow and learn!</span><div>
-### I'm an aspiring Software/AI Engineer constantly looking to grow and learn!
+<h1>Hey👋 I'm Alex! - <span style="font-size: smaller;">I'm an aspiring Software/AI Engineer constantly looking to grow and learn!</span></h1>
+
 <!--
 **alexfarouz/alexfarouz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
