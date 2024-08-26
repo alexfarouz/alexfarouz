@@ -1,3 +1,5 @@
+![Banner](https://github.com/YourUsername/YourRepoName/blob/main/assets/banner.png)
+
 # Hey👋 I'm Alex! 
 
 ### I'm an aspiring Software/AI Engineer constantly looking to grow and learn!
