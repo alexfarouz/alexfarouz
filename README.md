@@ -1,4 +1,4 @@
-![Banner](https://github.com/alexfarouz/alexfarouz/blob/main/banner.jpg)
+![Banner](https://github.com/alexfarouz/alexfarouz/blob/main/dcbanner.jpg)
 # Hey👋 I'm Alex!
 # I'm an aspiring Software/AI Engineer constantly looking to grow and learn!</sub>
 <!--
