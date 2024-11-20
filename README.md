@@ -1,5 +1,5 @@
 ![Banner](https://github.com/alexfarouz/alexfarouz/blob/main/banner.jpg)
-# Hey👋 I'm Alex
+# Hey👋 I'm Alex!
 I'm an aspiring Software/AI Engineer constantly looking to grow and learn!<br/>
 
 
