@@ -2,7 +2,12 @@
 # Hey 👋 I'm Alex!
 I'm a Software Engineer constantly looking to grow and learn! 🌱<br/>
 
-I'm:
+  📖 I'm currently learning **Cryptography 🔐, Data Mining ⛏️, and Swift 🏎️** !
+
+  🚧 Some projects I'm working on:<br/>
+  > • **Orthodox Saints ☦️**<br/>
+  > • **Viewee 🤖**
+  
 
 
 # 💻 Languages and Technologies
