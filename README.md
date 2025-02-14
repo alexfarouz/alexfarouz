@@ -1,6 +1,6 @@
 ![Banner](https://github.com/alexfarouz/alexfarouz/blob/main/banner.png)
 # Hey 👋 I'm Alex!
-I'm a Software Engineer constantly looking to grow and learn! 🌱<br/>
+I'm a Software Engineer constantly looking to grow and learn 🌱<br/>
 
   📖 I'm currently learning **Cryptography 🔐, Data Mining ⛏️, and Swift 🏎️** 
 
