@@ -6,7 +6,8 @@ I'm a Software Engineer constantly looking to grow and learn! 🌱<br/>
 
   🚧 Some projects I'm working on:<br/>
   > • **Orthodox Saints ☦️**<br/>
-  > • **Viewee 🤖**
+  > • **Viewee 🤖**<br/>
+  > • **Freshly 🍊**
   
 
 
